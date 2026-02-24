@@ -1,16 +1,35 @@
-### Hi there 👋
+👋 Hi, I'm Rakibul Islam Sadi
+💻 Junior Frontend Developer
 
+I am a passionate web developer focused on building clean, responsive, and interactive user interfaces. I enjoy solving problems with code and turning creative ideas into functional websites.
+🛠️ My Tech Stack:
 
-**rakib-is-sadi/rakib-is-sadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Languages: HTML5, CSS3, JavaScript (ES6+)
 
-Here are some ideas to get you started:
+    Styling: Responsive Web Design, Flexbox, CSS Grid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    Version Control: Git & GitHub
 
+    Concepts: DOM Manipulation, Interactive UI elements
+
+🌱 What I'm Doing Now:
+
+    Building projects using Vanilla JavaScript.
+
+    Exploring modern CSS frameworks like Tailwind CSS.
+
+    Deepening my understanding of asynchronous programming in JS.
+
+🎯 My Goals:
+
+    [ ] Master a JavaScript framework (like React.js).
+
+    [ ] Build a portfolio of 5+ high-quality web applications.
+
+    [ ] Contribute to open-source projects.
+
+📫 Connect with me:
+
+    LinkedIn: linkedin.com/in/your-username
+
+    Email: rakib276661@.com
