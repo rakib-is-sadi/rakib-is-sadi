@@ -2,6 +2,7 @@
 💻 Junior Frontend Developer
 
 I am a passionate web developer focused on building clean, responsive, and interactive user interfaces. I enjoy solving problems with code and turning creative ideas into functional websites.
+
 🛠️ My Tech Stack:
 
     Languages: HTML5, CSS3, JavaScript (ES6+)
@@ -29,7 +30,5 @@ I am a passionate web developer focused on building clean, responsive, and inter
     [ ] Contribute to open-source projects.
 
 📫 Connect with me:
-
-    LinkedIn: linkedin.com/in/your-username
 
     Email: rakib276661@.com
