@@ -1,4 +1,4 @@
-#### 👋 Hi, I'm Rakibul Islam Sadi
+#### 👋 Hi, I'm Rakibul Sadi
 ## 💻 Junior Frontend Developer
 
 I am a passionate web developer focused on building clean, responsive, and interactive user interfaces. I enjoy solving problems with code and turning creative ideas into functional websites.
