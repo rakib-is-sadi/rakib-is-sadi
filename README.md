@@ -1,34 +1,48 @@
-#### 👋 Hi, I'm Rakibul Sadi
-## 💻 Junior Frontend Developer
+<h1 align="center">Hi, I'm Rakibul Sadi 👋</h1>
 
-I am a passionate web developer focused on building clean, responsive, and interactive user interfaces. I enjoy solving problems with code and turning creative ideas into functional websites.
+<p align="center">
+  Frontend Developer from Bangladesh · Building fast, clean web experiences
+</p>
 
-🛠️ My Tech Stack:
+<p align="center">
+  <a href="[your portfolio link]">Portfolio</a> ·
+  <a href="[your LinkedIn link]">LinkedIn</a> ·
+  <a href="mailto:[your email]">Email</a>
+</p>
 
-    Languages: HTML5, CSS3, JavaScript (ES6+)
+---
 
-    Styling: Responsive Web Design, Flexbox, CSS Grid
+## 🚀 About Me
 
-    Version Control: Git & GitHub
+I'm a self-taught developer who turns designs into responsive, polished websites and web apps. I work with React, Next.js and TypeScript, and I automate workflows with n8n. I'm open to freelance projects and junior frontend roles.
 
-    Concepts: DOM Manipulation, Interactive UI elements
+## 🛠️ Tech Stack
 
-🌱 What I'm Doing Now:
+**Languages:** HTML · CSS · JavaScript · TypeScript
 
-    Building projects using Vanilla JavaScript.
+**Frameworks & Libraries:** React · Next.js · Tailwind CSS · Framer Motion
 
-    Exploring modern CSS frameworks like Tailwind CSS.
+**Backend & Tools:** Supabase · EmailJS · n8n · Git · GitHub · Figma
 
-    Deepening my understanding of asynchronous programming in JS.
+## 📂 Featured Projects
 
-🎯 My Goals:
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **JYNO** | Old-money fashion e-commerce store | React, Tailwind, Supabase, Framer Motion | [Live]([link]) · [Code]([link]) |
+| **Pixel Mags Dashboard** | Dark e-commerce analytics dashboard built from a Figma design | React, Tailwind | [Live]([link]) · [Code]([link]) |
+| **MyChat** | Real-time chat app | HTML, CSS, JS, Supabase | [Live]([link]) · [Code]([link]) |
+| **Portfolio** | My personal portfolio website | React, Tailwind | [Live]([link]) |
 
-    [ ] Master a JavaScript framework (like React.js).
+## 📈 Currently
 
-    [ ] Build a portfolio of 5+ high-quality web applications.
+- 🔨 Building projects with Next.js and TypeScript
+- 📚 Deepening my JavaScript and TypeScript fundamentals
+- 🤝 Looking for freelance and client-facing work
 
-    [ ] Contribute to open-source projects.
+## 📫 Let's Work Together
 
-📫 Connect with me:
+Need a landing page, a Figma-to-code conversion, or a workflow automation? Reach me at **[your email]**.
 
-    Email: rakib276661@.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-is-sadi&show_icons=true&theme=transparent" alt="GitHub stats" />
+</p>
