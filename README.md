@@ -1,48 +1,58 @@
 <h1 align="center">Hi, I'm Rakibul Sadi 👋</h1>
 
 <p align="center">
-  Frontend Developer from Bangladesh · Building fast, clean web experiences
+  <b>Product-Focused Web Developer</b> · React · Next.js · TypeScript
 </p>
 
 <p align="center">
-  <a href="[your portfolio link]">Portfolio</a> ·
-  <a href="[your LinkedIn link]">LinkedIn</a> ·
-  <a href="mailto:[your email]">Email</a>
+  I build complete, real-world web products, from idea to working application.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a self-taught developer who turns designs into responsive, polished websites and web apps. I work with React, Next.js and TypeScript, and I automate workflows with n8n. I'm open to freelance projects and junior frontend roles.
+I'm a web developer from Bangladesh focused on building products, not just pages. I care about how a product works end to end: the user experience, the logic behind it, the data, and the automation that keeps it running. I'm currently open to freelance projects and junior opportunities where I can help turn ideas into working products.
 
 ## 🛠️ Tech Stack
 
-**Languages:** HTML · CSS · JavaScript · TypeScript
+**Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries:** React · Next.js · Tailwind CSS · Framer Motion
+**Frameworks & Styling**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Tools:** Supabase · EmailJS · n8n · Git · GitHub · Figma
+**Backend & Automation**
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📂 Featured Projects
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **JYNO** | Old-money fashion e-commerce store | React, Tailwind, Supabase, Framer Motion | [Live]([link]) · [Code]([link]) |
-| **Pixel Mags Dashboard** | Dark e-commerce analytics dashboard built from a Figma design | React, Tailwind | [Live]([link]) · [Code]([link]) |
-| **MyChat** | Real-time chat app | HTML, CSS, JS, Supabase | [Live]([link]) · [Code]([link]) |
-| **Portfolio** | My personal portfolio website | React, Tailwind | [Live]([link]) |
+## 🌱 Currently
 
-## 📈 Currently
+- Building full products with React, Next.js and TypeScript
+- Working with Supabase for data and authentication
+- Automating workflows with n8n
+- Writing clean, maintainable and well-structured code
 
-- 🔨 Building projects with Next.js and TypeScript
-- 📚 Deepening my JavaScript and TypeScript fundamentals
-- 🤝 Looking for freelance and client-facing work
-
-## 📫 Let's Work Together
-
-Need a landing page, a Figma-to-code conversion, or a workflow automation? Reach me at **[your email]**.
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakib-is-sadi&show_icons=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+## 📫 Get in Touch
+
+- 📧 Email: [rakib276661@gmail.com](mailto:rakib276661@gmail.com)
+- 💼 LinkedIn: [Rakibul Sadi](https://www.linkedin.com/in/rakibul-sadi-87091b438/)
+
+<p align="center">
+  <i>Thanks for stopping by! ⭐</i>
 </p>
